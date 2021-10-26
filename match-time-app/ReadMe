@@ -1,0 +1,5 @@
+Download Jar file.
+Open command prompt.
+Write command:   java -jar match-time.jar TestData.csv
+Press Enter
+Output- Initial match time on left side, Formatted match time on right side
